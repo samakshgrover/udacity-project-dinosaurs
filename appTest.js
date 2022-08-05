@@ -129,6 +129,7 @@ function gridItem(name, species, fact) {
   grid.appendChild(gridTile);
 }
 
+//click handler on button element(#btn)
 btn.addEventListener("click", async () => {
 
   //removing form
