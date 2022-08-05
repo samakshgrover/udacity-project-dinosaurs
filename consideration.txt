@@ -1,0 +1,7 @@
+1) Form validation is not done
+2) what I got(the work i have to do)-:
+   a) getting form data
+   b) displaying grid tiles on grid element
+   c) and every tile should have random fact
+if u want me to something else or if i got wrong idea about the project or may be if some work in incomplete or wrongly done please let me know
+Thank You  
